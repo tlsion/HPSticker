@@ -45,26 +45,26 @@
 		3918D00CEA8FB4C82848F35020DE9782 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = HPSticker/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
 		436CDD3D2996B2040FCA5FD41E48A7C3 /* HPSticker-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HPSticker-prefix.pch"; sourceTree = "<group>"; };
 		43C368D9D91A45A5F8CD4AFBDAF501CF /* HPSticker.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = HPSticker.modulemap; sourceTree = "<group>"; };
-		4711BFBB2A834E5C27587C3A8671A671 /* Pods_HPSticker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HPSticker_Example.framework; path = "Pods-HPSticker_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4C7629FCB6A0E17A8818613876438FDC /* HPSticker.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = HPSticker.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		4711BFBB2A834E5C27587C3A8671A671 /* Pods_HPSticker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HPSticker_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C7629FCB6A0E17A8818613876438FDC /* HPSticker.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = HPSticker.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		4C93CAD2F8A6F98784298A2291A005D5 /* HPSticker.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HPSticker.release.xcconfig; sourceTree = "<group>"; };
 		64F61D8886D30AEEDF5B8F3E83ED8CE5 /* Pods-HPSticker_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HPSticker_Example-Info.plist"; sourceTree = "<group>"; };
-		66D21A8EBF14E06A2B87BCAD979DA68D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		66D21A8EBF14E06A2B87BCAD979DA68D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6F20A360E1A2CB7B14859B85ADC9600D /* Pods-HPSticker_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HPSticker_Example-frameworks.sh"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7A5D0942AF7A3DFDA2E326D49EDA57FE /* HPSticker-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "HPSticker-Info.plist"; sourceTree = "<group>"; };
 		7EE785BDF1D55F97EBF8B2BA0185DD5A /* Pods-HPSticker_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HPSticker_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		86F40B3A82F7AD3E79EE7E1C664C67B8 /* Pods-HPSticker_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HPSticker_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A1A09F686386131568BBB61B05156DB4 /* Pods-HPSticker_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HPSticker_Tests-Info.plist"; sourceTree = "<group>"; };
-		A3629BFCA1EDDBC3F7947D05242D9A77 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		A3629BFCA1EDDBC3F7947D05242D9A77 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		B720414B7778EDB9072B52122FA5E1CE /* Pods-HPSticker_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HPSticker_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		BFDCFD3348DA565A13DAFCB30E8823C1 /* Pods-HPSticker_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HPSticker_Example.release.xcconfig"; sourceTree = "<group>"; };
 		C1D73F7528DA3AD04DF504F22E53C35A /* HPSticker.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HPSticker.debug.xcconfig; sourceTree = "<group>"; };
-		C421E1A4587441492061F62A4E4DF7EA /* HPSticker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = HPSticker.framework; path = HPSticker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C421E1A4587441492061F62A4E4DF7EA /* HPSticker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HPSticker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6AD85B7426BEEE39C73D619EFA65993 /* HPSticker-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HPSticker-umbrella.h"; sourceTree = "<group>"; };
 		C7B7E22310DEB5F232C9C888976EAA8A /* HPSticker-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HPSticker-dummy.m"; sourceTree = "<group>"; };
-		DB3B24972604888CE456F894EFDE25D7 /* Pods_HPSticker_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HPSticker_Tests.framework; path = "Pods-HPSticker_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB3B24972604888CE456F894EFDE25D7 /* Pods_HPSticker_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HPSticker_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBA9AEF765CA6E5579A5C6C3F2770DE9 /* Pods-HPSticker_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HPSticker_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		ECD2892FC59B46CC674AC80F4B05FB6D /* Pods-HPSticker_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HPSticker_Example-umbrella.h"; sourceTree = "<group>"; };
 		F0CA1E95AACA67F975CE04D56DFA1B7A /* Pods-HPSticker_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HPSticker_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -625,8 +625,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -636,6 +635,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C1D73F7528DA3AD04DF504F22E53C35A /* HPSticker.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -698,6 +698,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4C93CAD2F8A6F98784298A2291A005D5 /* HPSticker.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
