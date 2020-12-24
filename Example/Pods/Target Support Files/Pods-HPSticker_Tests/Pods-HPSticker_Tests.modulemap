@@ -1,0 +1,6 @@
+framework module Pods_HPSticker_Tests {
+  umbrella header "Pods-HPSticker_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

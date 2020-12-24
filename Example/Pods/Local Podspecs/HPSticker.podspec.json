@@ -1,0 +1,22 @@
+{
+  "name": "HPSticker",
+  "version": "0.1.0",
+  "summary": "A short description of HPSticker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangtx-hy/HPSticker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangtx-hy": "wangtx@prttech.com"
+  },
+  "source": {
+    "git": "https://github.com/wangtx-hy/HPSticker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HPSticker/Classes/**/*"
+}

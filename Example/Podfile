@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'HPSticker_Example' do
+  pod 'HPSticker', :path => '../'
+
+  target 'HPSticker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

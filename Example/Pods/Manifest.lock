@@ -1,0 +1,16 @@
+PODS:
+  - HPSticker (0.1.0)
+
+DEPENDENCIES:
+  - HPSticker (from `../`)
+
+EXTERNAL SOURCES:
+  HPSticker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HPSticker: cb153f0cfba61206829b2c27e03880c0613b4192
+
+PODFILE CHECKSUM: 77b6bc08f59686e8e38023a139a0755633dce150
+
+COCOAPODS: 1.10.0
